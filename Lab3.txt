@@ -1,0 +1,40 @@
+## CSE 140L: Lab Assignment 3
+
+# Name: Benjamin Llanes
+# PID:A13138925
+# Email:bllanes@ucsd.edu
+
+################
+# For the following questions, please write your answer one space after ``:''.
+# Here is an example
+# Exercise 0.0: Calulate the area of an and1 gate
+# Answer 0.0: 1
+# Explanation 0.0 (optional): Some explanation if you want to write
+###############
+
+Exercise 1.2: What is the area of the locigcalBarrelShifter you implement. 
+Answer 1.2: 480
+Explanation 1.2 (optional): (Area of multiplexer32: 96) * (Num. of Multiplexers: 5)
+
+
+Exercise 1.3: What is the maximum propagation delay from any input of the logicalBarrelShifter 
+to its outputs?
+Answer 1.3: 5
+Explanation 1.3 (optional): (Multiplexer propogation delay: 1) * (Num. of Multiplexers: 5)
+
+Exercise 2.2: What is the area of the arithmeticBarrelShifter you implement. 
+Answer 2.2: 480
+Explanation 2.2 (optional): (Area of multiplexer32: 96) * (Num. of Multiplexers: 5)
+
+Exercise 2.3: What is the maximum propagation delay from any input of the arithmeticBarrelShifter 
+to its outputs?
+Answer 2.3: 5
+Explanation 2.3 (optional): (Max Multiplexer propogation delay: 1) * (Num. Of Multiplexers: 5)
+
+Exercise 3.2: What is the area of the logicalLeftBarrelShifter you implement. 
+Answer 3.2: 672
+Explanation 3.2 (optional): (Area of multiplexer: 96) * (Num. of Multiplexers: 7)
+
+Exercise 3.3: What is the maximum propagation delay from any input of the logicalLeftBarrelShifter to its outputs?
+Answer 3.3: 7
+Explanation 3.3 (optional):
